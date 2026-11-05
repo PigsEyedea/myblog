@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = "terminal"
+summaryLength = 10
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = true
+  
+
+  [params.logo]
+    logoText = "PigsEyedea"
+    logoHomeLink = "/"
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
