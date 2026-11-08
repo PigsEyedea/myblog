@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Postmortem: a little Drunkard's Walk Proc Gen And a lot of Indie Dev Manifesto"
 date = "2026-11-02T22:13:44-06:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
