@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = "https://pigseyedea.github.io/myblog/"
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Mackenize Tinker Log'
 theme = "terminal"
 summaryLength = 10
 [params]
@@ -8,13 +8,13 @@ summaryLength = 10
   showMenuItems = 3
   fullWidthTheme = false
   centerTheme = true
-  
+
 
   [params.logo]
-    logoText = "PigsEyedea"
-    logoHomeLink = "/"
+    logoText = "Mackenize Tinker Log"
+    logoHomeLink = "/myblog/"
 [[menu.main]]
   identifier = "home"
   name = "Home"
-  url = "/"
+  url = "/myblog/"
   weight = 1
