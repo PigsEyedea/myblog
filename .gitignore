@@ -2,5 +2,21 @@
 /public/
 /resources/
 **/.hugo_build.lock
+
+# macOS
 **/.DS_Store
+
+# Editors
+.zed/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian
 **/.obsidian/
+
+# Environment files
+.env
+.env.*
+!.env.example
