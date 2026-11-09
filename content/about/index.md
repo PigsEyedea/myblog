@@ -1,10 +1,8 @@
 +++
 date = '2026-11-09T15:07:56-06:00'
-draft = False
+draft = false
 title = 'Where Am I?'
 +++
-
-# Where Am I?
 
 My lair.
 
