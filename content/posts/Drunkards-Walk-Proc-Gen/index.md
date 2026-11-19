@@ -60,7 +60,7 @@ So exposure. That's a goal of mine. My drunk walk animation took about 2 weeks t
 I guess you could call this applying agile to indie dev. As a corporate cog I like that. Build the thing in little pieces that have value by themself. 
 
 ## Point 3: Don't shout into the void
-Posting on youtube is like yelling into the void and hoping the void speaks back, same with posting blindly on instagram or any other platform where you hope the algorithms will lift you up and make you famous. It's probably not going to happen. Now imagine posting in a community, in an engaging way, about something relevant to that community... that sounds way better right? I've made maybe 5 youtube videos. The most views I've received on that mega platform is around 250 views. That's not an amount of attention I can do anything with. Instagram has given me around 600 views in one go. You get no community to piggy back off of, you have to build your following slowly and that generates your views. 
+Posting on youtube is like yelling into the void and hoping the void speaks back, same with posting blindly on instagram or any other platform where you hope the algorithms will lift you up and make you famous. It's probably not going to happen. Now imagine posting in a community, in an engaging way, about something relevant to that community... that sounds way better right? I've made maybe 5 youtube videos. The most views I've received on that mega platform is around 250 views. That's not an amount of attention I can do anything with. Instagram has given me around 600 views in one go. You get no community to piggy back off of, instead you build your following slowly and that generates your views. 
 
 The same drunk walk gif that generated 17k views on reddit generated exactly 0 views on youtube. Ouch.
 
@@ -195,7 +195,7 @@ Finally If none of that makes sense, Wolverson is the GOAT.
 
 ![Notch](bigmoney.jpg)
 
-Now that I have cracked the code for indie dev and on my way to my first billion dollar project, the plan is to create a system for procedural generation in golang, then a system for pixel art, a system for combat, a system for hugo blog posts, a system for  managing all my systems, a system for reddit posting- maybe even a playable game after I build, polish, and publish all my game development systems! 
+Now that I have cracked the code for indie dev and am on my way to my first billion dollar project, the plan is to create a system for procedural generation in golang, then a system for pixel art, a system for combat, a system for hugo blog posts, a system for  managing all my systems, a system for reddit posting- maybe even a playable game after I build, polish, and publish all my game development systems! 
 
 ##### Just show me the code!
 https://github.com/PigsEyedea/bodleian/blob/main/drunkwalk.go [^f2]
