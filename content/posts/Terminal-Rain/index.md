@@ -16,15 +16,15 @@ hideComments = false
 
 Digital rain is a toy program implemented by many programmers, something hypnotic that a novice can pull off and feel like a hacker. 
 <!--more-->
-In the business we call this a kata, a short exercise whose repition hones your skill. The term is on loan from Japanese martial arts because perhaps 70% of programmers are also weebs. 
+In the business we call this a kata, a short exercise whose repetition hones your skill. The term is on loan from Japanese martial arts because perhaps 70% of programmers are also weebs. 
 
-Fun tangential trivia a weeb like myself would know, the digital rain sequence is inspired by ghost in the shell's opening credits. Goes to show you, anime is a wellspring of culture. 
+Fun tangential trivia a weeb like myself would know, The Matrix's digital rain sequence is inspired by Ghost in the Shell's opening credits. Goes to show you, anime is a wellspring of culture. 
 
 ### Proof![^feet]
 ![ghostinthshell](demo.gif)
 [^feet]: Please forgive me for the man with a foot in his mouth :|
 
-I learnt this fun little fact from wikipedia, my source for all facts post college. Wikipedia's digital rain page hosts it's own implementation of the kata. Here the columns fill up with random characters, some of them Japanese, and then wait to gracefully exit. The algo is really that simple... visually.
+I learnt this fun little fact from Wikipedia, my source for all facts post college. Wikipedia's digital rain page hosts its own implementation of the kata. Here the columns fill up with random characters, some of them Japanese, and then wait to gracefully exit. The algo is really that simple... visually.
 
 ### Wiki Rain
 ![wiki](wikirain.gif)
@@ -35,7 +35,7 @@ The novice's prime conceit.
 
 ![later](later.jpeg)
 
-Three hours is generous, this is was my first self directed golang project!
+Three hours is generous, this was my first self-directed Golang project!
 
 ![myrain](myrain.gif)
 
@@ -57,7 +57,7 @@ flowchart LR
     J -->C
 ```
 
-Is my version as nice any other version online? No. But my mom was impressed. This is sophisticated enough to impress someone who doesn't know LLMs can code. And that's actually a good kata. Because the exercise is the point, building the muscle memory and skill. Their is no mastery without being cruddy first. 
+Is my version as nice as any other version online? No. But my mom was impressed. This is sophisticated enough to impress someone who doesn't know LLMs can code. And that's actually a good kata. Because the exercise is the point, building the muscle memory and skill. There is no mastery without being cruddy first. 
 
 Given my cruddy code, I am well on my way.
 
