@@ -1,9 +1,11 @@
+
 {{ define "main" }}
   {{ if .Content }}
     <div class="index-content {{ if .Params.framed -}}framed{{- end -}}">
       {{ .Content }}
     </div>
   {{ end }}
+
   <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
     {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
@@ -34,9 +36,9 @@
         {{ if .Params.tags }}
           <span class="post-tags">
             {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
+              #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
+                {{- . -}}
+              </a>&nbsp;
             {{ end }}
           </span>
         {{ end }}
@@ -55,7 +57,9 @@
 
         {{ if not .Params.showFullContent }}
           <div>
-            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>
+            <a href="{{ .RelPermalink }}" class="read-more">
+              [Read full post →]
+            </a>
           </div>
         {{ end }}
       </article>
